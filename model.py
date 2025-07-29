@@ -2,8 +2,7 @@ from openai import OpenAI
 
 client = OpenAI(
     base_url="https://integrate.api.nvidia.com/v1",
-    api_key="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"
-)
+    api_key=
 
 def get_model_response(prompt: str) -> str:
     response_text = ""
