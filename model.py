@@ -3,6 +3,7 @@ from openai import OpenAI
 client = OpenAI(
     base_url="https://integrate.api.nvidia.com/v1",
     api_key=
+)
 
 def get_model_response(prompt: str) -> str:
     response_text = ""
@@ -21,3 +22,9 @@ def get_model_response(prompt: str) -> str:
             response_text += chunk.choices[0].delta.content
 
     return response_text
+def input_User(report,userquery) -> str:
+    prompt = '''
+    you are an intelligent analyst who is capable of generating a report based on the input data provided by the user.
+    You are  provided with a summary of the data. Along with the report attach the answers for the  user query at the end.
+    '''+ f''' the report would be {report}''' + f'''+ the user query is {userquery}'''
+    return prompt
