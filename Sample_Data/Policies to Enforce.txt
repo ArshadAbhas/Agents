@@ -1,0 +1,59 @@
+Policies to Enforce:
+
+Meal Per-Diem Limit
+
+Meal expenses must not exceed ₹2,500 per day.
+
+Flag any meal expense above this amount.
+
+Lodging Nightly Limit
+
+Hotel stays must not exceed ₹8,000 per night.
+
+If the stay is longer than 5 nights, a clear business justification must be present.
+
+Receipt Requirement
+
+All expenses above ₹1,000 must include an itemized receipt.
+
+Lodging and airfare expenses always require receipts, regardless of amount.
+
+Classification Consistency
+
+Expenses marked as Personal should not come from business vendors such as airlines, hotels, or taxis.
+
+Expenses marked as Professional should not include personal-type vendors such as spas, salons, or clothing stores.
+
+Duplicate Expenses
+
+No two expenses should have the same employee name, date, merchant, and amount.
+
+Flag duplicates as potential resubmissions.
+
+Currency and Exchange Validation
+
+Expenses paid abroad must be in local currency.
+
+Exchange rates must not deviate by more than ±5% from the official daily rate.
+
+Pre-Approval Check
+
+Any single expense above ₹20,000 requires pre-approval.
+
+Conferences, training, and international flights also require pre-approval regardless of cost.
+
+Non-Reimbursable Expenses
+
+The following categories are never reimbursable: fines, minibar charges, alcohol-only receipts, parking violations, childcare, personal clothing, and lost item replacements.
+
+Project / Cost Center Consistency
+
+Expenses tied to a project code must only be in these categories: travel, lodging, meals, and equipment rental.
+
+Total expenses per project must not exceed ₹5,00,000.
+
+Unusual / Anomalous Spending
+
+Flag any single expense that is more than 3 times the average amount for that employee in the same category.
+
+These should be reviewed as potential anomalies.

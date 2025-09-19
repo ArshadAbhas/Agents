@@ -2,10 +2,12 @@ import pandas as pd
 from openai import OpenAI
 from context import Context
 
+
+
 # --- Step 1: Setup NVIDIA API Client ---
 client = OpenAI(
     base_url="https://integrate.api.nvidia.com/v1",
-    api_key=""
+    api_key="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"
 )
 
 # --- Step 2: Model Call Function ---

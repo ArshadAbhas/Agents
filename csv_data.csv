@@ -1,0 +1,301 @@
+Personal Expense,Company Policy,Expense Type,Transaction Date,Payment Type,Business Purpose,Amount,Date Range,Vendor
+Yes,Violation - Alcohol Purchase,Transport,2025-07-19,Out - of - pocket,Team outing,4906,2025-07-19 to 2025-07-19,Vendor_fc3050ba
+No,Within Policy,Miscellaneous,2025-07-02,Out - of - pocket,Team outing,883,2025-07-02 to 2025-07-02,Vendor_ae1fdc24
+Yes,Within Policy,Snacks,2025-07-15,Company Paid,Training session,2253,2025-07-15 to 2025-07-18,Vendor_6b935c5f
+Yes,Violation - Alcohol Purchase,Dinner,2025-07-20,IBCP,Client meeting travel,69,2025-07-20 to 2025-07-23,Vendor_53d6e72d
+No,Violation - Over Limit,Entertainment,2025-07-13,IBCP,Training session,3556,2025-07-13 to 2025-07-15,Vendor_fb08a970
+Yes,Violation - Over Limit,Snacks,2025-07-29,Company Paid,Business snacks,4903,2025-07-29 to 2025-08-01,Vendor_0935acf2
+Yes,Violation - Over Limit,Office Supplies / Softwares,2025-07-11,Out - of - pocket,Misc work expense,4058,2025-07-11 to 2025-07-11,Vendor_23f1c1ee
+No,Violation - Alcohol Purchase,Entertainment,2025-07-28,Company Paid,Training session,1885,2025-07-28 to 2025-07-29,Vendor_3c23a7ce
+No,Violation - Alcohol Purchase,Training,2025-07-31,Company Paid,Training session,1242,2025-07-31 to 2025-08-01,Vendor_c987eb38
+No,Violation - Over Limit,Travel,2025-07-11,Out - of - pocket,Team dinner,4594,2025-07-11 to 2025-07-13,Vendor_68650563
+No,Violation - Alcohol Purchase,Hotel,2025-07-26,IBCP,Training session,606,2025-07-26 to 2025-07-26,Vendor_0f4732d4
+No,Violation - Alcohol Purchase,Entertainment,2025-07-14,Out - of - pocket,Client meeting travel,551,2025-07-14 to 2025-07-14,Vendor_6891d044
+Yes,Within Policy,Miscellaneous,2025-07-19,IBCP,Client meeting travel,201,2025-07-19 to 2025-07-22,Vendor_68890e6c
+No,Violation - Over Limit,Transport,2025-07-21,Company Paid,Team outing,211,2025-07-21 to 2025-07-24,Vendor_b1468558
+No,Violation - Over Limit,Travel,2025-07-19,Out - of - pocket,Misc work expense,2490,2025-07-19 to 2025-07-19,Vendor_bedb022f
+No,Within Policy,Travel,2025-07-18,Out - of - pocket,Business snacks,4241,2025-07-18 to 2025-07-19,Vendor_71f8d4a4
+Yes,Violation - Over Limit,Entertainment,2025-07-28,Company Paid,Local commute,4140,2025-07-28 to 2025-07-30,Vendor_49a2d77d
+No,Violation - Over Limit,Snacks,2025-07-06,IBCP,Business snacks,3891,2025-07-06 to 2025-07-07,Vendor_d22652e8
+No,Within Policy,Training,2025-07-16,Out - of - pocket,Team outing,3941,2025-07-16 to 2025-07-18,Vendor_10c0599b
+No,Violation - Over Limit,Hotel,2025-07-10,IBCP,Team outing,1325,2025-07-10 to 2025-07-11,Vendor_b1843c57
+Yes,Violation - Over Limit,Hotel,2025-07-25,Out - of - pocket,Conference accommodation,4091,2025-07-25 to 2025-07-28,Vendor_d11e19e1
+No,Violation - Over Limit,Conference,2025-07-02,Company Paid,Team dinner,3915,2025-07-02 to 2025-07-03,Vendor_5079fe33
+No,Violation - Alcohol Purchase,Conference,2025-07-07,IBCP,Team dinner,2427,2025-07-07 to 2025-07-07,Vendor_fb4c7635
+No,Within Policy,Office Supplies / Softwares,2025-07-30,Out - of - pocket,Business snacks,1820,2025-07-30 to 2025-07-30,Vendor_89a8cddc
+No,Within Policy,Travel,2025-07-05,Out - of - pocket,Office stationery,4214,2025-07-05 to 2025-07-07,Vendor_98f80269
+Yes,Violation - Alcohol Purchase,Snacks,2025-07-18,IBCP,Misc work expense,4669,2025-07-18 to 2025-07-21,Vendor_50f59b41
+Yes,Within Policy,Miscellaneous,2025-07-07,Out - of - pocket,Team outing,1796,2025-07-07 to 2025-07-10,Vendor_6abedf47
+No,Within Policy,Snacks,2025-07-16,Company Paid,Misc work expense,4393,2025-07-16 to 2025-07-16,Vendor_d35fe78b
+Yes,Within Policy,Entertainment,2025-07-28,Out - of - pocket,Team dinner,3808,2025-07-28 to 2025-07-31,Vendor_9938cc6a
+Yes,Violation - Alcohol Purchase,Office Supplies / Softwares,2025-07-31,Out - of - pocket,Conference accommodation,1738,2025-07-31 to 2025-07-31,Vendor_5461ceaf
+Yes,Violation - Alcohol Purchase,Office Supplies / Softwares,2025-07-27,IBCP,Team dinner,479,2025-07-27 to 2025-07-29,Vendor_7619ec9e
+Yes,Violation - Alcohol Purchase,Transport,2025-07-28,Company Paid,Misc work expense,3256,2025-07-28 to 2025-07-30,Vendor_dc44a67f
+No,Violation - Over Limit,Entertainment,2025-07-13,Company Paid,Local commute,4479,2025-07-13 to 2025-07-13,Vendor_e64c899d
+No,Violation - Over Limit,Snacks,2025-07-12,Out - of - pocket,Business snacks,3651,2025-07-12 to 2025-07-12,Vendor_34ea5685
+No,Within Policy,Hotel,2025-07-18,IBCP,Training session,4422,2025-07-18 to 2025-07-19,Vendor_ec52f088
+Yes,Within Policy,Entertainment,2025-07-11,Company Paid,Client meeting travel,4494,2025-07-11 to 2025-07-12,Vendor_8836e0cf
+No,Within Policy,Training,2025-07-05,Company Paid,Business snacks,1408,2025-07-05 to 2025-07-07,Vendor_f55fc89b
+Yes,Within Policy,Dinner,2025-07-19,Out - of - pocket,Local commute,3593,2025-07-19 to 2025-07-22,Vendor_21f2a3dc
+No,Violation - Alcohol Purchase,Entertainment,2025-07-04,IBCP,Conference accommodation,1513,2025-07-04 to 2025-07-06,Vendor_c56008f7
+Yes,Within Policy,Office Supplies / Softwares,2025-07-01,Out - of - pocket,Office stationery,339,2025-07-01 to 2025-07-04,Vendor_ef89fabf
+Yes,Violation - Over Limit,Dinner,2025-07-10,Out - of - pocket,Local commute,4130,2025-07-10 to 2025-07-13,Vendor_ecfebe1a
+No,Violation - Over Limit,Conference,2025-07-01,IBCP,Training session,4619,2025-07-01 to 2025-07-03,Vendor_4e8bdd32
+No,Violation - Alcohol Purchase,Snacks,2025-07-30,Company Paid,Local commute,2352,2025-07-30 to 2025-07-30,Vendor_441f626d
+No,Violation - Alcohol Purchase,Hotel,2025-07-14,Company Paid,Team dinner,724,2025-07-14 to 2025-07-15,Vendor_e713099f
+No,Violation - Over Limit,Transport,2025-07-02,Out - of - pocket,Misc work expense,4007,2025-07-02 to 2025-07-03,Vendor_9d73df92
+Yes,Violation - Alcohol Purchase,Miscellaneous,2025-07-01,Out - of - pocket,Local commute,4110,2025-07-01 to 2025-07-04,Vendor_56a2d4f5
+Yes,Violation - Alcohol Purchase,Dinner,2025-07-23,Company Paid,Business snacks,2278,2025-07-23 to 2025-07-25,Vendor_ab49f317
+No,Within Policy,Hotel,2025-07-18,IBCP,Training session,432,2025-07-18 to 2025-07-21,Vendor_8fe9153b
+No,Within Policy,Miscellaneous,2025-07-29,IBCP,Training session,4262,2025-07-29 to 2025-08-01,Vendor_41b2be45
+No,Violation - Alcohol Purchase,Miscellaneous,2025-07-12,IBCP,Misc work expense,1436,2025-07-12 to 2025-07-13,Vendor_9cdf701b
+No,Within Policy,Travel,2025-07-27,Out - of - pocket,Local commute,1518,2025-07-27 to 2025-07-27,Vendor_033cbc42
+Yes,Violation - Alcohol Purchase,Transport,2025-07-23,Company Paid,Office stationery,1711,2025-07-23 to 2025-07-26,Vendor_fdd7ce96
+No,Violation - Over Limit,Conference,2025-07-08,Out - of - pocket,Client meeting travel,590,2025-07-08 to 2025-07-08,Vendor_06bc9d69
+Yes,Violation - Over Limit,Transport,2025-07-16,Company Paid,Local commute,4105,2025-07-16 to 2025-07-19,Vendor_838eec35
+No,Violation - Alcohol Purchase,Dinner,2025-07-01,IBCP,Conference accommodation,2696,2025-07-01 to 2025-07-01,Vendor_64ea0f16
+Yes,Within Policy,Training,2025-07-16,Company Paid,Team outing,1807,2025-07-16 to 2025-07-16,Vendor_78ef1e80
+Yes,Violation - Alcohol Purchase,Travel,2025-07-30,IBCP,Conference accommodation,1973,2025-07-30 to 2025-08-01,Vendor_1052776f
+No,Violation - Over Limit,Training,2025-07-21,Out - of - pocket,Team outing,1282,2025-07-21 to 2025-07-22,Vendor_fc41c4fa
+No,Violation - Over Limit,Hotel,2025-07-12,IBCP,Team outing,2412,2025-07-12 to 2025-07-13,Vendor_ecd9c1f6
+No,Within Policy,Entertainment,2025-07-04,Out - of - pocket,Client meeting travel,3956,2025-07-04 to 2025-07-05,Vendor_600a4624
+Yes,Violation - Alcohol Purchase,Snacks,2025-07-23,IBCP,Office stationery,4463,2025-07-23 to 2025-07-24,Vendor_37fa6f38
+Yes,Violation - Alcohol Purchase,Travel,2025-07-09,Out - of - pocket,Office stationery,2096,2025-07-09 to 2025-07-11,Vendor_dfa5ade1
+No,Violation - Over Limit,Dinner,2025-07-25,IBCP,Business snacks,1532,2025-07-25 to 2025-07-27,Vendor_2f8266a2
+No,Violation - Alcohol Purchase,Dinner,2025-07-10,IBCP,Client meeting travel,4442,2025-07-10 to 2025-07-13,Vendor_505eac9a
+Yes,Within Policy,Hotel,2025-07-24,Out - of - pocket,Client meeting travel,3822,2025-07-24 to 2025-07-25,Vendor_ccd15e8a
+Yes,Violation - Alcohol Purchase,Dinner,2025-07-05,IBCP,Team outing,2841,2025-07-05 to 2025-07-06,Vendor_9015ac1a
+No,Within Policy,Miscellaneous,2025-07-27,IBCP,Business snacks,3643,2025-07-27 to 2025-07-29,Vendor_7ece11c9
+Yes,Violation - Alcohol Purchase,Miscellaneous,2025-07-31,IBCP,Conference accommodation,3991,2025-07-31 to 2025-08-03,Vendor_c9786e67
+No,Violation - Alcohol Purchase,Travel,2025-07-19,Company Paid,Local commute,3242,2025-07-19 to 2025-07-19,Vendor_82742ab4
+No,Violation - Alcohol Purchase,Snacks,2025-07-27,Company Paid,Local commute,4643,2025-07-27 to 2025-07-27,Vendor_dda042c6
+Yes,Within Policy,Conference,2025-07-17,IBCP,Client meeting travel,4628,2025-07-17 to 2025-07-19,Vendor_9bdc417c
+No,Violation - Over Limit,Training,2025-07-03,Company Paid,Training session,137,2025-07-03 to 2025-07-03,Vendor_1f721f41
+Yes,Violation - Alcohol Purchase,Transport,2025-07-30,Out - of - pocket,Client meeting travel,3282,2025-07-30 to 2025-08-01,Vendor_df11bc46
+No,Violation - Alcohol Purchase,Travel,2025-07-28,IBCP,Conference accommodation,4709,2025-07-28 to 2025-07-29,Vendor_16f5a32e
+No,Violation - Alcohol Purchase,Hotel,2025-07-12,Company Paid,Client meeting travel,832,2025-07-12 to 2025-07-14,Vendor_e9185d23
+Yes,Violation - Alcohol Purchase,Dinner,2025-07-17,Company Paid,Client meeting travel,3234,2025-07-17 to 2025-07-20,Vendor_9deb089f
+No,Violation - Over Limit,Transport,2025-07-23,Company Paid,Client meeting travel,4630,2025-07-23 to 2025-07-25,Vendor_7fb2907c
+No,Within Policy,Snacks,2025-07-11,Out - of - pocket,Client meeting travel,1550,2025-07-11 to 2025-07-14,Vendor_6d64d752
+No,Within Policy,Training,2025-07-27,Out - of - pocket,Office stationery,1073,2025-07-27 to 2025-07-27,Vendor_121085ef
+Yes,Violation - Over Limit,Training,2025-07-03,Out - of - pocket,Business snacks,2652,2025-07-03 to 2025-07-06,Vendor_86a4c1d8
+No,Violation - Over Limit,Conference,2025-07-15,Company Paid,Misc work expense,3658,2025-07-15 to 2025-07-18,Vendor_b8faab88
+Yes,Violation - Over Limit,Office Supplies / Softwares,2025-07-06,Out - of - pocket,Team outing,1178,2025-07-06 to 2025-07-06,Vendor_eee9495b
+Yes,Within Policy,Transport,2025-07-30,IBCP,Office stationery,4982,2025-07-30 to 2025-07-30,Vendor_f3b3213f
+Yes,Violation - Alcohol Purchase,Dinner,2025-07-24,Out - of - pocket,Team dinner,2536,2025-07-24 to 2025-07-27,Vendor_990f0f05
+No,Within Policy,Transport,2025-07-21,Company Paid,Office stationery,4772,2025-07-21 to 2025-07-22,Vendor_b930f76a
+Yes,Within Policy,Transport,2025-07-27,Company Paid,Local commute,1779,2025-07-27 to 2025-07-28,Vendor_6372ec4b
+Yes,Within Policy,Training,2025-07-07,Out - of - pocket,Misc work expense,874,2025-07-07 to 2025-07-08,Vendor_79b06527
+Yes,Within Policy,Office Supplies / Softwares,2025-07-22,Company Paid,Training session,3983,2025-07-22 to 2025-07-24,Vendor_cb01ffdd
+No,Violation - Over Limit,Entertainment,2025-07-19,Company Paid,Training session,643,2025-07-19 to 2025-07-19,Vendor_a2b9ea4a
+Yes,Violation - Over Limit,Office Supplies / Softwares,2025-07-21,IBCP,Office stationery,616,2025-07-21 to 2025-07-21,Vendor_4077b53c
+Yes,Within Policy,Training,2025-07-26,Out - of - pocket,Misc work expense,4347,2025-07-26 to 2025-07-27,Vendor_673b313e
+Yes,Within Policy,Entertainment,2025-07-06,Out - of - pocket,Training session,442,2025-07-06 to 2025-07-06,Vendor_ca59274a
+No,Violation - Alcohol Purchase,Dinner,2025-07-27,Out - of - pocket,Local commute,4133,2025-07-27 to 2025-07-29,Vendor_8a6c1661
+No,Violation - Over Limit,Entertainment,2025-07-08,Out - of - pocket,Office stationery,4680,2025-07-08 to 2025-07-10,Vendor_a77a0fca
+Yes,Violation - Alcohol Purchase,Entertainment,2025-07-17,IBCP,Business snacks,1684,2025-07-17 to 2025-07-19,Vendor_2ab74018
+No,Within Policy,Office Supplies / Softwares,2025-07-27,IBCP,Client meeting travel,4174,2025-07-27 to 2025-07-30,Vendor_b2eca9aa
+Yes,Within Policy,Hotel,2025-07-04,Company Paid,Team outing,1330,2025-07-04 to 2025-07-05,Vendor_20c50a17
+No,Violation - Over Limit,Travel,2025-07-15,Company Paid,Team outing,2263,2025-07-15 to 2025-07-18,Vendor_d705fc3c
+Yes,Within Policy,Training,2025-07-05,IBCP,Client meeting travel,4090,2025-07-05 to 2025-07-06,Vendor_5a4d472b
+Yes,Within Policy,Training,2025-07-07,Out - of - pocket,Team outing,4266,2025-07-07 to 2025-07-07,Vendor_50006cce
+Yes,Violation - Over Limit,Hotel,2025-07-08,IBCP,Office stationery,2630,2025-07-08 to 2025-07-09,Vendor_d97aa930
+No,Within Policy,Miscellaneous,2025-07-23,IBCP,Business snacks,440,2025-07-23 to 2025-07-25,Vendor_595d94d5
+No,Violation - Alcohol Purchase,Training,2025-07-01,Out - of - pocket,Team outing,3804,2025-07-01 to 2025-07-04,Vendor_da306c1b
+No,Within Policy,Conference,2025-07-08,IBCP,Conference accommodation,3263,2025-07-08 to 2025-07-10,Vendor_746ea9d3
+No,Within Policy,Miscellaneous,2025-07-18,IBCP,Misc work expense,4428,2025-07-18 to 2025-07-18,Vendor_174baccb
+No,Within Policy,Snacks,2025-07-30,Company Paid,Team dinner,1077,2025-07-30 to 2025-07-30,Vendor_e2c88881
+No,Violation - Alcohol Purchase,Transport,2025-07-05,Out - of - pocket,Local commute,3385,2025-07-05 to 2025-07-05,Vendor_8f03eb8d
+Yes,Within Policy,Training,2025-07-15,IBCP,Team dinner,4591,2025-07-15 to 2025-07-18,Vendor_333567a4
+Yes,Violation - Alcohol Purchase,Snacks,2025-07-12,IBCP,Training session,1119,2025-07-12 to 2025-07-14,Vendor_8533bb98
+No,Within Policy,Dinner,2025-07-10,Out - of - pocket,Team outing,51,2025-07-10 to 2025-07-11,Vendor_3c5e395b
+Yes,Violation - Alcohol Purchase,Conference,2025-07-18,Out - of - pocket,Client meeting travel,1653,2025-07-18 to 2025-07-21,Vendor_14691b3f
+Yes,Within Policy,Training,2025-07-18,Company Paid,Local commute,1686,2025-07-18 to 2025-07-18,Vendor_b13010bc
+No,Violation - Alcohol Purchase,Miscellaneous,2025-07-23,Out - of - pocket,Office stationery,3871,2025-07-23 to 2025-07-23,Vendor_c548272e
+Yes,Violation - Alcohol Purchase,Entertainment,2025-07-19,Company Paid,Client meeting travel,1712,2025-07-19 to 2025-07-19,Vendor_4cd4ca73
+Yes,Violation - Alcohol Purchase,Conference,2025-07-13,Company Paid,Local commute,1293,2025-07-13 to 2025-07-16,Vendor_d7f4029f
+No,Within Policy,Travel,2025-07-30,IBCP,Training session,936,2025-07-30 to 2025-08-02,Vendor_2d67c00a
+Yes,Within Policy,Entertainment,2025-07-09,IBCP,Conference accommodation,3728,2025-07-09 to 2025-07-11,Vendor_c599d75c
+Yes,Within Policy,Dinner,2025-07-11,IBCP,Office stationery,4045,2025-07-11 to 2025-07-13,Vendor_93a06998
+Yes,Violation - Over Limit,Travel,2025-07-10,Out - of - pocket,Client meeting travel,4656,2025-07-10 to 2025-07-11,Vendor_22a65741
+No,Violation - Alcohol Purchase,Entertainment,2025-07-21,Company Paid,Office stationery,2157,2025-07-21 to 2025-07-24,Vendor_e21e0fb1
+Yes,Violation - Alcohol Purchase,Dinner,2025-07-20,Company Paid,Local commute,4760,2025-07-20 to 2025-07-21,Vendor_84ff3963
+Yes,Violation - Alcohol Purchase,Entertainment,2025-07-18,IBCP,Training session,3235,2025-07-18 to 2025-07-18,Vendor_0b452049
+No,Violation - Over Limit,Training,2025-07-11,Company Paid,Training session,3480,2025-07-11 to 2025-07-13,Vendor_37066a03
+Yes,Within Policy,Dinner,2025-07-18,IBCP,Team outing,3540,2025-07-18 to 2025-07-18,Vendor_1da4722f
+Yes,Violation - Alcohol Purchase,Miscellaneous,2025-07-14,Out - of - pocket,Conference accommodation,3272,2025-07-14 to 2025-07-17,Vendor_45128523
+Yes,Violation - Over Limit,Office Supplies / Softwares,2025-07-04,IBCP,Conference accommodation,1175,2025-07-04 to 2025-07-07,Vendor_34a04d35
+No,Violation - Alcohol Purchase,Conference,2025-07-23,Out - of - pocket,Local commute,77,2025-07-23 to 2025-07-23,Vendor_96acd7f1
+No,Violation - Alcohol Purchase,Snacks,2025-07-26,IBCP,Misc work expense,890,2025-07-26 to 2025-07-26,Vendor_fc6dcbd2
+Yes,Violation - Over Limit,Office Supplies / Softwares,2025-07-01,Out - of - pocket,Conference accommodation,950,2025-07-01 to 2025-07-01,Vendor_382ecf20
+No,Violation - Over Limit,Transport,2025-07-23,Company Paid,Misc work expense,4607,2025-07-23 to 2025-07-26,Vendor_8e41e62a
+Yes,Within Policy,Transport,2025-07-30,Company Paid,Team outing,50,2025-07-30 to 2025-08-02,Vendor_c490f735
+Yes,Violation - Over Limit,Entertainment,2025-07-18,IBCP,Misc work expense,4027,2025-07-18 to 2025-07-21,Vendor_8d1fb3cc
+Yes,Within Policy,Training,2025-07-26,Out - of - pocket,Office stationery,4737,2025-07-26 to 2025-07-28,Vendor_66144fea
+No,Within Policy,Dinner,2025-07-19,IBCP,Misc work expense,342,2025-07-19 to 2025-07-20,Vendor_262bced6
+No,Violation - Alcohol Purchase,Transport,2025-07-19,Out - of - pocket,Local commute,3863,2025-07-19 to 2025-07-20,Vendor_6e27e232
+No,Violation - Alcohol Purchase,Travel,2025-07-27,Out - of - pocket,Conference accommodation,3706,2025-07-27 to 2025-07-30,Vendor_1c85741c
+Yes,Within Policy,Entertainment,2025-07-30,IBCP,Local commute,3142,2025-07-30 to 2025-08-01,Vendor_f952e649
+Yes,Within Policy,Dinner,2025-07-25,IBCP,Training session,623,2025-07-25 to 2025-07-26,Vendor_50d204de
+Yes,Violation - Over Limit,Travel,2025-07-09,Company Paid,Team dinner,2967,2025-07-09 to 2025-07-11,Vendor_83ed9326
+No,Violation - Alcohol Purchase,Hotel,2025-07-29,IBCP,Business snacks,4678,2025-07-29 to 2025-08-01,Vendor_7371894f
+No,Within Policy,Transport,2025-07-30,Out - of - pocket,Misc work expense,2206,2025-07-30 to 2025-07-30,Vendor_a4a0ec45
+No,Violation - Over Limit,Entertainment,2025-07-30,Out - of - pocket,Office stationery,2808,2025-07-30 to 2025-07-30,Vendor_31c85edc
+Yes,Violation - Over Limit,Entertainment,2025-07-31,Out - of - pocket,Business snacks,1980,2025-07-31 to 2025-08-01,Vendor_20f79ae7
+Yes,Within Policy,Miscellaneous,2025-07-03,IBCP,Client meeting travel,1272,2025-07-03 to 2025-07-06,Vendor_c03a73e4
+Yes,Violation - Alcohol Purchase,Conference,2025-07-08,IBCP,Conference accommodation,3136,2025-07-08 to 2025-07-11,Vendor_0e829db7
+Yes,Within Policy,Snacks,2025-07-03,IBCP,Client meeting travel,1319,2025-07-03 to 2025-07-03,Vendor_e466682a
+No,Violation - Over Limit,Snacks,2025-07-09,Company Paid,Business snacks,2056,2025-07-09 to 2025-07-11,Vendor_3c23041f
+Yes,Within Policy,Training,2025-07-10,Out - of - pocket,Team outing,1426,2025-07-10 to 2025-07-11,Vendor_e8916f62
+No,Violation - Alcohol Purchase,Office Supplies / Softwares,2025-07-07,Out - of - pocket,Training session,1898,2025-07-07 to 2025-07-10,Vendor_642cea34
+No,Violation - Over Limit,Hotel,2025-07-06,Out - of - pocket,Training session,2976,2025-07-06 to 2025-07-08,Vendor_6a58cc77
+Yes,Violation - Over Limit,Transport,2025-07-19,Company Paid,Client meeting travel,3723,2025-07-19 to 2025-07-19,Vendor_93b60748
+No,Violation - Over Limit,Hotel,2025-07-14,IBCP,Misc work expense,258,2025-07-14 to 2025-07-17,Vendor_87e36332
+Yes,Within Policy,Snacks,2025-07-15,Out - of - pocket,Office stationery,1248,2025-07-15 to 2025-07-18,Vendor_8fecf4f4
+No,Within Policy,Entertainment,2025-07-26,Out - of - pocket,Conference accommodation,3065,2025-07-26 to 2025-07-27,Vendor_92ceac8a
+Yes,Violation - Over Limit,Dinner,2025-07-22,Company Paid,Misc work expense,4580,2025-07-22 to 2025-07-24,Vendor_34083792
+No,Violation - Alcohol Purchase,Miscellaneous,2025-07-31,Out - of - pocket,Team dinner,4561,2025-07-31 to 2025-08-01,Vendor_008377c5
+No,Violation - Over Limit,Training,2025-07-22,Company Paid,Client meeting travel,2723,2025-07-22 to 2025-07-25,Vendor_1a8b2d1e
+No,Violation - Alcohol Purchase,Dinner,2025-07-12,IBCP,Business snacks,2602,2025-07-12 to 2025-07-15,Vendor_609392fc
+No,Violation - Over Limit,Dinner,2025-07-01,Company Paid,Misc work expense,2180,2025-07-01 to 2025-07-04,Vendor_6ec8214c
+Yes,Violation - Alcohol Purchase,Hotel,2025-07-14,Company Paid,Misc work expense,2360,2025-07-14 to 2025-07-14,Vendor_e8034740
+No,Violation - Alcohol Purchase,Dinner,2025-07-02,IBCP,Business snacks,256,2025-07-02 to 2025-07-02,Vendor_58b9de05
+No,Violation - Over Limit,Dinner,2025-07-17,IBCP,Team outing,4041,2025-07-17 to 2025-07-17,Vendor_5dc9249c
+Yes,Violation - Alcohol Purchase,Training,2025-07-31,Company Paid,Local commute,1538,2025-07-31 to 2025-07-31,Vendor_fef8b1da
+Yes,Within Policy,Travel,2025-07-23,Out - of - pocket,Business snacks,2464,2025-07-23 to 2025-07-23,Vendor_a106d6d9
+No,Violation - Over Limit,Conference,2025-07-27,IBCP,Training session,2480,2025-07-27 to 2025-07-28,Vendor_89fb02d7
+Yes,Violation - Alcohol Purchase,Training,2025-07-28,IBCP,Team dinner,2178,2025-07-28 to 2025-07-31,Vendor_1560cb21
+No,Within Policy,Miscellaneous,2025-07-03,IBCP,Conference accommodation,1388,2025-07-03 to 2025-07-04,Vendor_6cd418d8
+No,Violation - Alcohol Purchase,Training,2025-07-11,Out - of - pocket,Local commute,596,2025-07-11 to 2025-07-13,Vendor_abe78fb8
+Yes,Within Policy,Travel,2025-07-26,Company Paid,Conference accommodation,4384,2025-07-26 to 2025-07-26,Vendor_28748594
+No,Violation - Alcohol Purchase,Dinner,2025-07-25,IBCP,Local commute,160,2025-07-25 to 2025-07-25,Vendor_938d3afd
+No,Within Policy,Transport,2025-07-19,Company Paid,Client meeting travel,4446,2025-07-19 to 2025-07-22,Vendor_d09ff13e
+Yes,Within Policy,Dinner,2025-07-20,IBCP,Training session,1478,2025-07-20 to 2025-07-23,Vendor_b5014933
+No,Within Policy,Transport,2025-07-22,Out - of - pocket,Client meeting travel,4855,2025-07-22 to 2025-07-24,Vendor_0acf22be
+No,Violation - Alcohol Purchase,Training,2025-07-08,Out - of - pocket,Team dinner,1552,2025-07-08 to 2025-07-08,Vendor_5b56aaf6
+No,Violation - Over Limit,Training,2025-07-18,Out - of - pocket,Misc work expense,4525,2025-07-18 to 2025-07-21,Vendor_ff855dcf
+No,Within Policy,Snacks,2025-07-09,Out - of - pocket,Team outing,4414,2025-07-09 to 2025-07-11,Vendor_ce5069bc
+No,Violation - Alcohol Purchase,Travel,2025-07-03,Out - of - pocket,Office stationery,4668,2025-07-03 to 2025-07-03,Vendor_f9e79b3e
+No,Within Policy,Transport,2025-07-06,Company Paid,Business snacks,331,2025-07-06 to 2025-07-06,Vendor_bac531df
+No,Violation - Alcohol Purchase,Transport,2025-07-03,Company Paid,Team outing,4865,2025-07-03 to 2025-07-06,Vendor_29b64962
+Yes,Violation - Alcohol Purchase,Miscellaneous,2025-07-19,Out - of - pocket,Team outing,3627,2025-07-19 to 2025-07-22,Vendor_9aecc8a0
+Yes,Within Policy,Miscellaneous,2025-07-25,Company Paid,Team dinner,4183,2025-07-25 to 2025-07-26,Vendor_eda34854
+Yes,Violation - Alcohol Purchase,Entertainment,2025-07-05,Out - of - pocket,Misc work expense,881,2025-07-05 to 2025-07-06,Vendor_bbaddcc6
+No,Within Policy,Transport,2025-07-05,IBCP,Office stationery,3086,2025-07-05 to 2025-07-06,Vendor_8cf48776
+No,Violation - Alcohol Purchase,Hotel,2025-07-23,IBCP,Conference accommodation,749,2025-07-23 to 2025-07-25,Vendor_09b5c498
+Yes,Violation - Alcohol Purchase,Miscellaneous,2025-07-15,Company Paid,Team outing,3754,2025-07-15 to 2025-07-18,Vendor_b4e29eab
+Yes,Violation - Alcohol Purchase,Miscellaneous,2025-07-02,Out - of - pocket,Office stationery,2628,2025-07-02 to 2025-07-03,Vendor_36608d86
+No,Violation - Alcohol Purchase,Training,2025-07-18,Out - of - pocket,Training session,3919,2025-07-18 to 2025-07-20,Vendor_ea8c52e7
+No,Violation - Alcohol Purchase,Training,2025-07-02,Company Paid,Business snacks,4594,2025-07-02 to 2025-07-03,Vendor_d4673d22
+Yes,Within Policy,Entertainment,2025-07-21,Company Paid,Business snacks,2129,2025-07-21 to 2025-07-23,Vendor_89727497
+No,Violation - Over Limit,Miscellaneous,2025-07-22,Company Paid,Team dinner,1423,2025-07-22 to 2025-07-25,Vendor_b00ecf94
+No,Violation - Over Limit,Snacks,2025-07-05,Out - of - pocket,Misc work expense,278,2025-07-05 to 2025-07-08,Vendor_37f068eb
+Yes,Within Policy,Hotel,2025-07-18,Out - of - pocket,Client meeting travel,4422,2025-07-18 to 2025-07-21,Vendor_0d524b07
+No,Violation - Over Limit,Hotel,2025-07-10,IBCP,Conference accommodation,1112,2025-07-10 to 2025-07-11,Vendor_fa704d27
+Yes,Violation - Alcohol Purchase,Training,2025-07-14,Out - of - pocket,Team outing,1892,2025-07-14 to 2025-07-14,Vendor_25800a17
+Yes,Violation - Alcohol Purchase,Travel,2025-07-02,Out - of - pocket,Team dinner,243,2025-07-02 to 2025-07-05,Vendor_62c427b1
+Yes,Violation - Over Limit,Transport,2025-07-16,IBCP,Training session,4840,2025-07-16 to 2025-07-16,Vendor_6e28bb82
+Yes,Violation - Alcohol Purchase,Entertainment,2025-07-25,IBCP,Misc work expense,2336,2025-07-25 to 2025-07-27,Vendor_804053a4
+Yes,Violation - Over Limit,Miscellaneous,2025-07-13,IBCP,Local commute,3102,2025-07-13 to 2025-07-14,Vendor_ef003d9e
+Yes,Violation - Over Limit,Transport,2025-07-26,Out - of - pocket,Local commute,1231,2025-07-26 to 2025-07-29,Vendor_ce9cb27f
+No,Violation - Alcohol Purchase,Snacks,2025-07-21,Out - of - pocket,Client meeting travel,2359,2025-07-21 to 2025-07-23,Vendor_d899270d
+Yes,Violation - Over Limit,Office Supplies / Softwares,2025-07-06,Out - of - pocket,Training session,4691,2025-07-06 to 2025-07-07,Vendor_06b408f6
+No,Within Policy,Training,2025-07-14,Out - of - pocket,Client meeting travel,2600,2025-07-14 to 2025-07-17,Vendor_9447cdc4
+Yes,Violation - Over Limit,Miscellaneous,2025-07-06,Out - of - pocket,Conference accommodation,726,2025-07-06 to 2025-07-08,Vendor_57498a40
+Yes,Within Policy,Travel,2025-07-05,IBCP,Team outing,4354,2025-07-05 to 2025-07-06,Vendor_edf46f23
+No,Within Policy,Travel,2025-07-04,Out - of - pocket,Misc work expense,4558,2025-07-04 to 2025-07-04,Vendor_743c2689
+No,Within Policy,Transport,2025-07-16,IBCP,Training session,1660,2025-07-16 to 2025-07-16,Vendor_e72ecbce
+Yes,Violation - Alcohol Purchase,Transport,2025-07-02,Out - of - pocket,Misc work expense,825,2025-07-02 to 2025-07-03,Vendor_0510c9f6
+Yes,Violation - Alcohol Purchase,Snacks,2025-07-03,Company Paid,Team outing,3037,2025-07-03 to 2025-07-03,Vendor_e3aa73db
+Yes,Violation - Alcohol Purchase,Snacks,2025-07-26,IBCP,Team outing,1055,2025-07-26 to 2025-07-29,Vendor_8f33386d
+No,Within Policy,Entertainment,2025-07-09,Company Paid,Team outing,1385,2025-07-09 to 2025-07-10,Vendor_24d5066f
+No,Violation - Alcohol Purchase,Conference,2025-07-08,Company Paid,Team dinner,4948,2025-07-08 to 2025-07-08,Vendor_ddd87a72
+No,Violation - Over Limit,Transport,2025-07-25,Out - of - pocket,Misc work expense,4526,2025-07-25 to 2025-07-27,Vendor_0ff36613
+No,Violation - Alcohol Purchase,Hotel,2025-07-20,IBCP,Business snacks,3910,2025-07-20 to 2025-07-22,Vendor_1623c3e9
+Yes,Violation - Over Limit,Entertainment,2025-07-20,Company Paid,Team dinner,1978,2025-07-20 to 2025-07-22,Vendor_9c1968f9
+No,Within Policy,Snacks,2025-07-16,IBCP,Team dinner,731,2025-07-16 to 2025-07-17,Vendor_4c864222
+No,Violation - Over Limit,Travel,2025-07-14,IBCP,Training session,2897,2025-07-14 to 2025-07-14,Vendor_93e16334
+No,Violation - Alcohol Purchase,Dinner,2025-07-16,Company Paid,Client meeting travel,1948,2025-07-16 to 2025-07-16,Vendor_0d8d2507
+No,Violation - Alcohol Purchase,Office Supplies / Softwares,2025-07-07,Out - of - pocket,Client meeting travel,2854,2025-07-07 to 2025-07-09,Vendor_198c4008
+No,Violation - Over Limit,Office Supplies / Softwares,2025-07-27,IBCP,Training session,4287,2025-07-27 to 2025-07-27,Vendor_e6b0e152
+Yes,Violation - Alcohol Purchase,Hotel,2025-07-27,Company Paid,Team outing,2345,2025-07-27 to 2025-07-27,Vendor_99a4bcc7
+No,Violation - Over Limit,Conference,2025-07-28,Out - of - pocket,Business snacks,1181,2025-07-28 to 2025-07-28,Vendor_96a28621
+No,Within Policy,Snacks,2025-07-24,Company Paid,Conference accommodation,4713,2025-07-24 to 2025-07-24,Vendor_7aeda617
+No,Within Policy,Snacks,2025-07-24,Out - of - pocket,Conference accommodation,3462,2025-07-24 to 2025-07-25,Vendor_3c8cf043
+No,Violation - Alcohol Purchase,Entertainment,2025-07-26,IBCP,Office stationery,2268,2025-07-26 to 2025-07-27,Vendor_ec14e05a
+Yes,Violation - Alcohol Purchase,Office Supplies / Softwares,2025-07-27,IBCP,Team outing,1661,2025-07-27 to 2025-07-29,Vendor_5cdb2c83
+Yes,Violation - Alcohol Purchase,Transport,2025-07-13,Company Paid,Business snacks,1340,2025-07-13 to 2025-07-16,Vendor_74866722
+No,Within Policy,Office Supplies / Softwares,2025-07-30,IBCP,Team dinner,867,2025-07-30 to 2025-07-30,Vendor_fe6cd0ff
+Yes,Violation - Alcohol Purchase,Travel,2025-07-23,IBCP,Conference accommodation,257,2025-07-23 to 2025-07-24,Vendor_1645f22b
+Yes,Within Policy,Miscellaneous,2025-07-31,Out - of - pocket,Local commute,4919,2025-07-31 to 2025-07-31,Vendor_6530bb51
+Yes,Violation - Over Limit,Transport,2025-07-04,Company Paid,Business snacks,4739,2025-07-04 to 2025-07-05,Vendor_3c1591fb
+Yes,Violation - Alcohol Purchase,Dinner,2025-07-08,Company Paid,Training session,4497,2025-07-08 to 2025-07-08,Vendor_bda969ed
+Yes,Violation - Over Limit,Office Supplies / Softwares,2025-07-12,Out - of - pocket,Office stationery,618,2025-07-12 to 2025-07-15,Vendor_09274026
+No,Violation - Alcohol Purchase,Hotel,2025-07-06,Out - of - pocket,Client meeting travel,2159,2025-07-06 to 2025-07-08,Vendor_9cdcd70c
+No,Violation - Over Limit,Office Supplies / Softwares,2025-07-30,Company Paid,Client meeting travel,2234,2025-07-30 to 2025-08-02,Vendor_9bbb0a01
+No,Violation - Over Limit,Dinner,2025-07-30,IBCP,Training session,681,2025-07-30 to 2025-07-30,Vendor_333b7a3d
+No,Violation - Over Limit,Travel,2025-07-06,Company Paid,Conference accommodation,220,2025-07-06 to 2025-07-08,Vendor_981ef13b
+No,Violation - Over Limit,Conference,2025-07-06,Company Paid,Local commute,426,2025-07-06 to 2025-07-06,Vendor_e2d7892b
+No,Within Policy,Snacks,2025-07-10,Out - of - pocket,Conference accommodation,3847,2025-07-10 to 2025-07-13,Vendor_fdfa6ece
+No,Violation - Over Limit,Office Supplies / Softwares,2025-07-31,Company Paid,Team outing,969,2025-07-31 to 2025-08-03,Vendor_77a7cedf
+No,Violation - Alcohol Purchase,Entertainment,2025-07-15,Company Paid,Team outing,230,2025-07-15 to 2025-07-15,Vendor_d1a23995
+No,Within Policy,Office Supplies / Softwares,2025-07-11,IBCP,Client meeting travel,4992,2025-07-11 to 2025-07-11,Vendor_38fca073
+No,Violation - Over Limit,Office Supplies / Softwares,2025-07-17,IBCP,Conference accommodation,3903,2025-07-17 to 2025-07-17,Vendor_fba129f7
+No,Within Policy,Training,2025-07-03,Company Paid,Conference accommodation,2339,2025-07-03 to 2025-07-04,Vendor_316f13ca
+Yes,Violation - Alcohol Purchase,Conference,2025-07-19,Company Paid,Business snacks,3991,2025-07-19 to 2025-07-20,Vendor_5232a92f
+Yes,Violation - Over Limit,Dinner,2025-07-09,Company Paid,Team dinner,3712,2025-07-09 to 2025-07-10,Vendor_757aa997
+Yes,Violation - Over Limit,Conference,2025-07-30,IBCP,Misc work expense,161,2025-07-30 to 2025-07-31,Vendor_481bc439
+Yes,Violation - Alcohol Purchase,Office Supplies / Softwares,2025-07-24,Out - of - pocket,Team outing,2559,2025-07-24 to 2025-07-25,Vendor_41c701ee
+No,Violation - Alcohol Purchase,Office Supplies / Softwares,2025-07-18,Company Paid,Local commute,2878,2025-07-18 to 2025-07-21,Vendor_bd867b8d
+No,Violation - Over Limit,Hotel,2025-07-20,IBCP,Conference accommodation,3124,2025-07-20 to 2025-07-21,Vendor_6173b318
+No,Within Policy,Miscellaneous,2025-07-06,IBCP,Training session,593,2025-07-06 to 2025-07-09,Vendor_157d67a8
+Yes,Violation - Alcohol Purchase,Conference,2025-07-26,IBCP,Client meeting travel,2699,2025-07-26 to 2025-07-26,Vendor_810a8890
+No,Within Policy,Transport,2025-07-14,Company Paid,Client meeting travel,4919,2025-07-14 to 2025-07-15,Vendor_f9ceac4c
+Yes,Violation - Over Limit,Office Supplies / Softwares,2025-07-29,Company Paid,Local commute,4761,2025-07-29 to 2025-08-01,Vendor_b69fe213
+Yes,Violation - Over Limit,Transport,2025-07-25,Out - of - pocket,Team dinner,1229,2025-07-25 to 2025-07-27,Vendor_b34a70b2
+Yes,Violation - Over Limit,Conference,2025-07-25,Out - of - pocket,Client meeting travel,579,2025-07-25 to 2025-07-26,Vendor_304c36b0
+No,Violation - Over Limit,Snacks,2025-07-13,Out - of - pocket,Training session,607,2025-07-13 to 2025-07-14,Vendor_bdf2fd43
+No,Within Policy,Conference,2025-07-16,IBCP,Client meeting travel,4407,2025-07-16 to 2025-07-18,Vendor_1944aed5
+No,Violation - Alcohol Purchase,Transport,2025-07-13,IBCP,Training session,885,2025-07-13 to 2025-07-14,Vendor_45d847e0
+No,Within Policy,Training,2025-07-18,Company Paid,Local commute,630,2025-07-18 to 2025-07-18,Vendor_eec3c9fd
+Yes,Within Policy,Travel,2025-07-23,IBCP,Conference accommodation,615,2025-07-23 to 2025-07-25,Vendor_01dde5aa
+Yes,Within Policy,Office Supplies / Softwares,2025-07-29,Company Paid,Team dinner,1147,2025-07-29 to 2025-08-01,Vendor_3cba78dc
+No,Violation - Over Limit,Miscellaneous,2025-07-09,Out - of - pocket,Team dinner,3297,2025-07-09 to 2025-07-09,Vendor_c5eae6c1
+No,Violation - Alcohol Purchase,Travel,2025-07-08,Out - of - pocket,Business snacks,1619,2025-07-08 to 2025-07-08,Vendor_77efaea1
+No,Violation - Over Limit,Hotel,2025-07-12,Out - of - pocket,Client meeting travel,1520,2025-07-12 to 2025-07-13,Vendor_1d521e5d
+Yes,Within Policy,Miscellaneous,2025-07-09,IBCP,Team outing,946,2025-07-09 to 2025-07-09,Vendor_1f69c505
+No,Violation - Over Limit,Conference,2025-07-06,Company Paid,Training session,3279,2025-07-06 to 2025-07-09,Vendor_a5630283
+No,Violation - Alcohol Purchase,Dinner,2025-07-17,Out - of - pocket,Team dinner,3422,2025-07-17 to 2025-07-18,Vendor_e3fcc536
+Yes,Violation - Over Limit,Transport,2025-07-18,IBCP,Conference accommodation,3789,2025-07-18 to 2025-07-21,Vendor_de942e11
+Yes,Within Policy,Office Supplies / Softwares,2025-07-10,IBCP,Team outing,3674,2025-07-10 to 2025-07-12,Vendor_6fefda2a
+Yes,Violation - Over Limit,Entertainment,2025-07-12,Out - of - pocket,Team dinner,3687,2025-07-12 to 2025-07-13,Vendor_03d43eec
+Yes,Within Policy,Miscellaneous,2025-07-08,Company Paid,Business snacks,235,2025-07-08 to 2025-07-10,Vendor_99145cf6
+Yes,Violation - Alcohol Purchase,Training,2025-07-16,Company Paid,Office stationery,3515,2025-07-16 to 2025-07-16,Vendor_4d57421b
+No,Within Policy,Training,2025-07-15,Company Paid,Client meeting travel,2094,2025-07-15 to 2025-07-16,Vendor_005ad274
+Yes,Within Policy,Dinner,2025-07-03,Out - of - pocket,Office stationery,1829,2025-07-03 to 2025-07-06,Vendor_e733d106
+No,Violation - Alcohol Purchase,Snacks,2025-07-09,Company Paid,Local commute,1418,2025-07-09 to 2025-07-09,Vendor_7ae47305
+No,Violation - Over Limit,Training,2025-07-07,Company Paid,Business snacks,608,2025-07-07 to 2025-07-09,Vendor_bf9c1559
+No,Violation - Alcohol Purchase,Transport,2025-07-17,Company Paid,Training session,3951,2025-07-17 to 2025-07-17,Vendor_7a8c05dc
+Yes,Violation - Over Limit,Transport,2025-07-28,Out - of - pocket,Business snacks,267,2025-07-28 to 2025-07-31,Vendor_1eabce36
+Yes,Within Policy,Conference,2025-07-13,IBCP,Team outing,1390,2025-07-13 to 2025-07-14,Vendor_d39b1abb
+No,Violation - Over Limit,Training,2025-07-28,Company Paid,Conference accommodation,2616,2025-07-28 to 2025-07-29,Vendor_6c507c3b
+No,Violation - Over Limit,Conference,2025-07-18,IBCP,Misc work expense,4173,2025-07-18 to 2025-07-18,Vendor_8e05b943
+No,Violation - Alcohol Purchase,Travel,2025-07-06,Out - of - pocket,Conference accommodation,3066,2025-07-06 to 2025-07-06,Vendor_14875d1c
+No,Within Policy,Travel,2025-07-26,Out - of - pocket,Team outing,892,2025-07-26 to 2025-07-28,Vendor_d2661df6
+Yes,Violation - Alcohol Purchase,Dinner,2025-07-29,IBCP,Training session,3308,2025-07-29 to 2025-08-01,Vendor_27d2fa81
+No,Violation - Alcohol Purchase,Hotel,2025-07-27,Out - of - pocket,Business snacks,2729,2025-07-27 to 2025-07-30,Vendor_f5c44ae1
+No,Violation - Over Limit,Transport,2025-07-04,Out - of - pocket,Team dinner,3800,2025-07-04 to 2025-07-05,Vendor_b7f92dd7
+Yes,Within Policy,Snacks,2025-07-27,Company Paid,Misc work expense,3645,2025-07-27 to 2025-07-28,Vendor_8de810ce
+No,Violation - Over Limit,Miscellaneous,2025-07-17,Company Paid,Team dinner,2123,2025-07-17 to 2025-07-20,Vendor_b122c062
+No,Within Policy,Travel,2025-07-10,Out - of - pocket,Training session,3417,2025-07-10 to 2025-07-10,Vendor_e68cd028
+No,Violation - Alcohol Purchase,Conference,2025-07-04,IBCP,Client meeting travel,1231,2025-07-04 to 2025-07-04,Vendor_11e0906e
+Yes,Violation - Alcohol Purchase,Conference,2025-07-02,IBCP,Training session,3075,2025-07-02 to 2025-07-02,Vendor_f0bba470
+No,Violation - Over Limit,Office Supplies / Softwares,2025-07-28,IBCP,Office stationery,3305,2025-07-28 to 2025-07-30,Vendor_7ad31438
+Yes,Violation - Alcohol Purchase,Conference,2025-07-24,IBCP,Team dinner,3891,2025-07-24 to 2025-07-26,Vendor_1f6069eb
+No,Violation - Alcohol Purchase,Entertainment,2025-07-15,Out - of - pocket,Local commute,1271,2025-07-15 to 2025-07-16,Vendor_3bfd9325
+No,Within Policy,Office Supplies / Softwares,2025-07-29,Company Paid,Business snacks,1644,2025-07-29 to 2025-08-01,Vendor_2b88c15c
+No,Violation - Alcohol Purchase,Office Supplies / Softwares,2025-07-25,Out - of - pocket,Team outing,4029,2025-07-25 to 2025-07-28,Vendor_34533ea5
+No,Violation - Alcohol Purchase,Hotel,2025-07-07,Company Paid,Misc work expense,703,2025-07-07 to 2025-07-09,Vendor_4566e9c1
+No,Within Policy,Training,2025-07-01,IBCP,Misc work expense,379,2025-07-01 to 2025-07-04,Vendor_3fbcf889
+No,Violation - Alcohol Purchase,Transport,2025-07-09,Company Paid,Misc work expense,1953,2025-07-09 to 2025-07-10,Vendor_d04f2edc
+No,Within Policy,Conference,2025-07-09,IBCP,Office stationery,1581,2025-07-09 to 2025-07-12,Vendor_97fdc6e5

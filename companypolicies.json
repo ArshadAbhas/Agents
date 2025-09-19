@@ -1,0 +1,35 @@
+{
+    "company_policy": {
+      "travel": {
+        "description": "Expenses related to business travel including flights, trains, taxis, and hotels.",
+        "max_limit_per_day": 5000,
+        "allowed_categories": ["flight", "train", "taxi", "hotel"],
+        "notes": "Upgrade to business class not allowed unless pre-approved."
+      },
+      "meals": {
+        "description": "Meal expenses during official work or travel.",
+        "max_limit_per_meal": 1000,
+        "max_limit_per_day": 2500,
+        "allowed_categories": ["breakfast", "lunch", "dinner"],
+        "notes": "Alcoholic beverages are not reimbursable."
+      },
+      "entertainment": {
+        "description": "Client entertainment, events, and team outings.",
+        "max_limit_per_event": 10000,
+        "allowed_categories": ["client_dinner", "team_outing"],
+        "notes": "Requires manager approval."
+      },
+      "office_supplies": {
+        "description": "Stationery and office-related purchases.",
+        "max_limit_per_item": 2000,
+        "allowed_categories": ["stationery", "printer_ink", "misc"],
+        "notes": "Items like electronics require IT approval."
+      },
+      "personal_expenses": {
+        "description": "Personal or non-business related expenses.",
+        "allowed": false,
+        "notes": "Strictly non-reimbursable."
+      }
+    }
+  }
+  

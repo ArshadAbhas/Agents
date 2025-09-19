@@ -1,0 +1,26 @@
+Date,Employee ID,Employee Name,Department,Merchant,Description,Amount,Payment Method,Receipt,Project Code,Location,Notes
+2025-01-14,E004,Sanjay Rao,Finance,Big Bazaar,Groceries,2147.06,Corporate Card,No,PJT-3001,Delhi,Check policy compliance
+2025-02-09,E003,Anita Gupta,Marketing,Big Bazaar,Groceries,2552.02,Cash,No,PJT-4001,Bangalore,Check policy compliance
+2025-03-03,E004,Sanjay Rao,Finance,Zoom,Subscription,16.73,Corporate Card,Yes,PJT-5001,Bangalore,
+2025-07-25,E002,Rahul Verma,Engineering,Amazon India,Office supplies,2916.35,Corporate Card,Yes,PJT-4001,Delhi,
+2025-03-22,E005,Meera Iyer,HR,Big Bazaar,Groceries,2373.1,Cash,No,PJT-4001,San Francisco,Check policy compliance
+2025-07-22,E007,Neha Kulkarni,Product,Marriott,Hotel stay abroad,1534.75,Personal Card,Yes,PJT-3001,Dubai,
+2025-07-17,E002,Rahul Verma,Engineering,Cafe Coffee Day,Team coffee,667.87,Corporate Card,Yes,PJT-1001,Dubai,Check policy compliance
+2025-04-22,E009,Rina Das,Support,Restaurant XYZ,Client Dinner,7620.7,Corporate Card,Yes,,Pune,
+2025-06-10,E001,Priya Sharma,Sales,Delta Airlines,International flight,912.01,Cash,No,PJT-1001,Hyderabad,
+2025-06-10,E002,Rahul Verma,Engineering,Zoom,Subscription,21.79,Personal Card,No,PJT-2001,Kolkata,
+2025-08-23,E005,Meera Iyer,HR,Zoom,Subscription,17.82,Cash,Yes,,San Francisco,Check policy compliance
+2025-04-03,E003,Anita Gupta,Marketing,Restaurant XYZ,Client Dinner,9900.33,Personal Card,Yes,PJT-4001,Dubai,
+2025-05-16,E006,Vikram Singh,Engineering,Amazon India,Office supplies,2733.64,Cash,Yes,,San Francisco,
+2025-08-13,E008,Amit Patel,Sales,Air India,Flight to Mumbai,16711.05,Corporate Card,No,PJT-3001,Bangalore,
+2025-05-06,E002,Rahul Verma,Engineering,Taj Hotel,Hotel stay,14751.03,Personal Card,Yes,,Delhi,
+2025-08-19,E005,Meera Iyer,HR,Uber,Taxi ride,1056.83,Corporate Card,No,PJT-3001,San Francisco,
+2025-04-19,E006,Vikram Singh,Engineering,Cafe Coffee Day,Team coffee,737.68,Personal Card,No,PJT-3001,Hyderabad,
+2025-06-21,E003,Anita Gupta,Marketing,Marriott,Hotel stay abroad,1216.98,Corporate Card,No,PJT-1001,Hyderabad,
+2025-07-17,E010,Karan Mehta,Sales,Air India,Flight to Mumbai,11820.71,Personal Card,Yes,PJT-5001,Delhi,
+2025-06-06,E008,Amit Patel,Sales,Zoom,Subscription,16.27,Cash,No,PJT-1001,Dubai,
+2025-06-11,E001,Priya Sharma,Sales,Zoom,Subscription,18.33,Cash,No,PJT-5001,Mumbai,
+2025-07-09,E005,Meera Iyer,HR,Taj Hotel,Hotel stay,21032.44,Cash,No,PJT-3001,Pune,
+2025-08-16,E006,Vikram Singh,Engineering,Taj Hotel,Hotel stay,12635.36,Corporate Card,No,PJT-2001,Bangalore,Check policy compliance
+2025-02-17,E007,Neha Kulkarni,Product,Delta Airlines,International flight,750.06,Corporate Card,Yes,PJT-1001,Delhi,
+2025-02-13,E004,Sanjay Rao,Finance,Amazon India,Office supplies,2801.75,Personal Card,No,PJT-3001,Kolkata,
