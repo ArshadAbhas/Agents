@@ -1,19 +1,3 @@
 {
-  "summary_report": {
-    "general_description": "Analysis of expense records in table_1 against company reimbursement policies",
-    "total_records": 25,
-    "policy_violations": [
-      "Hotel expenses exceeding daily limit of \u20b95,000: 4 instances found (up to \u20b921,032.44)",
-      "Flight expenses exceeding daily limit of \u20b95,000: 2 instances found (up to \u20b916,711.05)",
-      "Client dinner expenses exceeding per-meal limit of \u20b91,000: 2 instances found (up to \u20b99,900.33)",
-      "Office supply purchases exceeding per-item limit of \u20b92,000: 3 instances found (up to \u20b92,916.35)",
-      "Possible personal grocery expenses submitted for reimbursement: 3 instances found"
-    ],
-    "data_quality_issues": [
-      "Lack of clear categorization of expenses making policy enforcement difficult",
-      "Missing receipt documentation indicator (all values show 'No')",
-      "No explicit linking to policy categories in the data"
-    ],
-    "overall_assessment": "Multiple policy violations detected, particularly regarding expense limits for travel and meals. Data quality issues make automated compliance checking challenging. Immediate attention needed for high-value hotel and flight expenses that significantly exceed policy limits."
-  }
+  "error": "Response ended prematurely"
 }

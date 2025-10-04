@@ -14,7 +14,7 @@ class PolicyChecker:
         self.db_path = "my_database.db"
         self.policy_path = "/home/arshad-ahmed/Documents/Agents/companypolicies.json"
         self.llm_model = "qwen/qwen3-coder-480b-a35b-instruct"
-        self.api_key = ""
+        self.api_key = "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"
 
         # Load policies
         with open(self.policy_path, "r") as f:
@@ -45,7 +45,6 @@ class PolicyChecker:
         )
 
     def run_policy_check(self, output_file: str = "report.json") -> dict:
-        """Run policy analysis with the agent and save result as JSON file."""
         prompt = f"""
         You are an excellent assistant employed to check whether the given table in the DB 
         violates the company policies below:
@@ -54,14 +53,15 @@ class PolicyChecker:
 
         Return your analysis strictly as JSON with the following structure:
         {{
-          "summary_report": {{
-            "general_description": "string",
-            "total_records": "int",
-            "policy_violations": ["list of violations"],
-            "data_quality_issues": ["list of issues"],
-            "overall_assessment": "string"
-          }}
+        "row_level_policy_check": [
+            {{
+            "row_id": <row number>,
+            "policy_violations": ["list of violated policies, empty if none"]
+            }},
+            ...
+        ]
         }}
+        Make sure each row from the table is checked individually.
         """
 
         parsed_json = {}

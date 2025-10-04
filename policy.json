@@ -1,0 +1,51 @@
+{
+  "company_policy": {
+    "travel": {
+      "description": "Business travel-related expenses including airfare, trains, taxis, car rentals, and hotels.",
+      "max_limit_per_day": 5000,
+      "allowed_categories": ["airfare", "train", "taxi", "car_rental", "hotel"],
+      "notes": "Flights must be economy/coach class. Rail in 2nd class/coach class only. Car rentals limited to compact category (full-size only if 3+ travelers). Room upgrades only if at no additional cost. Fines and damages not reimbursable. Mileage reimbursement follows local law (e.g., IRS in US)."
+    },
+    "transportation": {
+      "description": "Ground transportation and related costs.",
+      "max_limit_per_day": 3000,
+      "allowed_categories": ["fuel", "parking", "tolls", "taxi", "train"],
+      "notes": "Fuel reimbursable for rental/personal car if approved. Parking/traffic fines are not reimbursable."
+    },
+    "meals": {
+      "description": "Personal meal expenses during SAP-approved overnight business trips.",
+      "max_limit_per_meal": 3000,
+      "max_limit_per_day": 6000,
+      "allowed_categories": ["breakfast", "lunch", "dinner"],
+      "notes": "Receipts required. Alcohol not reimbursable. Meal reimbursement depends on duration of trip (2–3 meals reimbursable depending on trip length). Example limits: US ($15 breakfast, $20 lunch, $40 dinner; $75 daily), Outside US (€15 breakfast, €20 lunch, €30 dinner; €65 daily). Grocery receipts allowed if in extended lodging."
+    },
+    "entertainment": {
+      "description": "Client or team-related entertainment expenses.",
+      "max_limit_per_event": 10000,
+      "allowed_categories": ["client_dinner", "team_outing", "business_meals_with_attendees"],
+      "notes": "Requires advance manager approval. Must be clearly business-related."
+    },
+    "office_expenses": {
+      "description": "Stationery, software, and office-related purchases.",
+      "max_limit_per_item": 2000,
+      "allowed_categories": ["stationery", "printer_ink", "software", "misc"],
+      "notes": "Electronics or IT-related equipment require IT approval."
+    },
+    "communications": {
+      "description": "Communication-related expenses during business travel.",
+      "max_limit_per_month": 5000,
+      "allowed_categories": ["internet_fees", "mobile_phone"],
+      "notes": "Must be business-related. Personal usage not reimbursable."
+    },
+    "extraordinary_expenses": {
+      "description": "Expenses outside standard policy.",
+      "allowed_categories": ["exceptions"],
+      "notes": "Only reimbursable with written pre-approval from SAP Line of Business Owner and cost center owner. No partial reimbursements allowed if policy not followed."
+    },
+    "personal_expenses": {
+      "description": "Non-business related expenses.",
+      "allowed_categories": [],
+      "notes": "Strictly non-reimbursable. Includes personal leisure, alcohol, or any expenses unrelated to SAP business."
+    }
+  }
+}
